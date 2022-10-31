@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Stack;
 
-
+@SuppressWarnings("unchecked")
 public class CommandPrintTimetableVertical {
 
     private static final String[] DAYS_IN_WEEK = {"MON", "TUE", "WED", "THU", "FRI"};
